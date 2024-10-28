@@ -1,4 +1,7 @@
 # Options Pricing Models
+import math
+import numpy as np
+from scipy.stats import norm
 
 # BSM Model
 class BlackScholesModel:
