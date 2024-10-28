@@ -1,7 +1,3 @@
-# This file contains options pricing models 
-
-print("Hello World Test")
-
 # BSM Model
 class BlackScholesModel:
     """
