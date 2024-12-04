@@ -1,5 +1,5 @@
 # My Quantitative
 
-A python library written by a finance student for derivative asset valuation and quantitative trading strategies.
+A Python library developed by a finance student, tailored for derivative asset valuation and the implementation of quantitative trading strategies.
 
-This library is designed to meet the needs of quantitative trading strategies. It includes classes and functions that make it easy to value derivatives.
+This library is purpose-built to support quantitative traders, offering a comprehensive suite of classes and functions designed to streamline the valuation of derivatives and enhance the efficiency of trading strategy development.
